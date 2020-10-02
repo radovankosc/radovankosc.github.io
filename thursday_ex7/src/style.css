@@ -1,0 +1,28 @@
+body {
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: 22px;
+}
+
+label {
+  margin: 0 10px;
+  display:block;
+  
+}
+
+input {
+  padding:20px;
+  margin: 8px;
+  display:block;
+  border: 3px solid green;
+  border-radius: 9px;
+}
+
+button {
+  margin: 20px;
+  height: 65px;
+  background: green;
+  border: 3px solid green;
+  border-radius: 29px;
+  font-size: 22px;
+}

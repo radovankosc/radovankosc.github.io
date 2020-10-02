@@ -1,0 +1,55 @@
+body {
+  width:700px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.aqua {
+  height:100px;
+  background:aqua;
+}
+
+.content {
+  display:flex;
+  flex-direction:row;
+  
+}
+
+.leftSideBar {
+  
+  height:600px;
+  background-color: orange;
+  flex-grow: 1.5;
+}
+
+.mainContent {
+  
+  margin: 0 20px;
+  height:600px;
+  background: red;
+  flex-grow: 5;
+  display:flex;
+  flex-direction:column-reverse;
+  
+}
+
+.fixedContent {
+  width:50px;
+  height:50px;
+  background: black;
+  position: fixed;
+  
+}
+
+.rightSideBar {
+  
+  height:600px;
+  background-color: purple;
+  flex-grow: 1.5;
+}
+
+.blue {
+  height:100px;
+  background:blue;
+}
+

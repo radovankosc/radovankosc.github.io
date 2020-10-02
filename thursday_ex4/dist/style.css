@@ -1,0 +1,33 @@
+main {
+  border: 5px solid #4285f4;
+  text-align: center;
+  margin: 100px; 
+  width: 300px;
+  font-family: 'Averia Serif Libre', cursive;
+  font-family: 'Baloo Thambi 2', cursive;
+  font-size: 24px;
+  color: white;
+  
+}
+
+.red {
+  background: #E67676;
+  margin: 0;
+  padding: 20px;
+  
+  }
+.yellow {
+  background: #F2F062;
+  margin: 0;
+  padding: 20px;
+}
+.sky {
+  background: #A9E6E6;
+  margin: 0;
+  padding: 20px;
+}
+.blue {
+  background: #7692E4;
+  margin: 0;
+  padding: 20px;
+}

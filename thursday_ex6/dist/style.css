@@ -1,0 +1,24 @@
+body {
+  width: 500px;
+  margin: 50px;
+  border: 3px solid grey;
+  padding: 10px;
+  border-radius: 25px;   
+}
+
+header {
+  font-family: "Calibri"
+  
+}
+
+h1 {
+  color: navy;
+}
+
+.underlined {
+  text-decoration: underline;
+  list-style-type: upper-alpha;
+}
+.green {
+  color: green;
+}
