@@ -1,0 +1,38 @@
+
+
+body {
+
+   margin:50px;
+}
+
+.container1 {
+   width:850px;
+   padding:10px;
+   display:flex;
+   border: 2px solid  rgb(37, 118, 172);
+   margin-bottom: 30px;;
+}
+
+.box {
+   margin:20px 10px;
+   
+   width:65px;
+   height:65px;
+   background-color: rgb(37, 118, 172);
+}
+
+.container2 {
+   width:850px;
+   padding:10px;
+   display:flex;
+   border: 2px solid  rgb(37, 118, 172);
+   background-color: orange;
+}
+
+.box2 {
+   margin:20px 10px;
+   
+   width:65px;
+   height:65px;
+   background-color: purple;
+}
