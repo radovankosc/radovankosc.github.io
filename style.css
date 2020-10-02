@@ -1,123 +1,60 @@
 body {
-  margin:auto;
-  width:1000px;
+   margin: 25px;
+   margin-left: 250px;
+   margin-right: 47%;
+   background: #358597;
+   color: white;
+   border: 5px solid white;
+   border-radius: 14px;
+   font-family: 'Righteous', cursive;
+
 }
 
-.navigationUpperContainer {
-  width:1000px;
-  background-color: #262626;
-  padding: 30px 0;
-  color:white;
-  font-family: 'Abril Fatface', cursive;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size:28px;
-  justify-content:space-evenly;
-  display:flex;
+header {
+   display:flex;
+   text-align: center;
 }
-
-.columnContainer {
-  display:flex;
-  
-}
-
-.columnLeft {
-  width:80%;
-  
-  
-}
-
-.columnRight {
-  width:100%;
-  
-}
-
-.entrance {
-  margin:50px 28px 330px 28px;
-  font-family: 'Abril Fatface', cursive;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size:22px;
-  line-height:1.8;
-}
-
-.mainText {
-  margin:50px 28px;
-  font-family: 'Abril Fatface', cursive;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size:22px;
-  line-height:1.8;
-}
-
-
-
-
-.CVimage {
-  font-family: 'Abril Fatface', cursive;
-  font-size:30px;  
-  position: relative;  
-  margin-bottom:100px;
-  
-}
-
-img {
-  opacity: 0.7;
-}
-
 
 h1 {
-  font-size: 45px;
-  font-weight: normal;
-  margin: 0 60px;
-  padding:0;
-  position: absolute;
-  bottom: 218px;
+   margin: 50px 50px 50px 150px;
+   border: 5px solid #f4a896;
+   border-radius: 14px;
+   padding: 25px;
 }
 
-h2{
-  font-size: 98px;
-  font-weight: normal;
-  margin: 0 60px;
-  padding:0;
-  line-height:0.9;
-  position: absolute;
-  bottom: 42px;
+h2 {
+   margin-left: 150px;
 }
 
-
-
-.quotebox {
-  display:flex;
-    
+.week1 {
+   display: flex;
+   margin-left: 150px;
+   margin-bottom: 50px;
 }
-.quoteItself {
-  background-color: #262626;  
-  padding:10px 30px 10px 50px;
-  margin-bottom:150px;
-  color:white;
-  font-family: 'Abril Fatface', cursive;
-  font-weight: normal;
-  font-size:70px;
-  position:relative;
-  }
 
-.quoteItself::before {
-  content: '“';
-  position:absolute;
-  top:-25px;
-  left:1px;
-  font-size: 99px;
+.saturday {
+   margin-left: 100px;
+   }
+
+a:link {
+   color: white;
+   background-color: transparent;
+   text-decoration: none;
  }
 
+a:visited {
+   color:white;
+   background-color: transparent;
+   text-decoration: none;
+ }
 
-.subtext {
-  font-size:18px;
+ a:hover {
+   color:  #f4a896;
 }
 
-h4 {
-  margin-bottom:0;
-}
 
-h5 {
-  font-family: 'Merriweather', serif;
-  font-size: 12px; 
-  margin-top: 0;
-}
+ a:active {
+   color: silver;
+   background-color: transparent;
+   text-decoration: underline;
+ }
