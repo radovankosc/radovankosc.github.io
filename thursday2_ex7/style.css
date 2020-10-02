@@ -1,0 +1,35 @@
+body {
+   width: 300px;;
+   margin: auto;
+}
+
+h1 {
+   margin: 20px;
+}
+
+
+.container {
+   display:flex;
+   flex-direction: column;
+}
+
+.paragraph {
+   
+   padding: 20px;
+   border-bottom: 2px solid black;
+   border-left: 2px solid black;
+   border-right: 2px solid black;
+
+}
+
+.paragraphLast {
+
+   padding: 20px;
+   border-left: 2px solid black;
+   border-right: 2px solid black;
+}
+
+.paragraph:hover,.paragraphLast:hover {
+   background-color: rgb(207, 105, 21);
+}
+
