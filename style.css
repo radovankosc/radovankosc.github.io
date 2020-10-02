@@ -1,7 +1,7 @@
 body {
-   margin: 25px;
-   margin-left: 250px;
-   margin-right: 47%;
+   margin:auto;
+   margin-top: 50px;
+   width:1000px;
    background: #358597;
    color: white;
    border: 5px solid white;
