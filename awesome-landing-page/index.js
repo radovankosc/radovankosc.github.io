@@ -18,6 +18,8 @@ $("#closeButton").click(function (){
    $("#newsletter").slideToggle(500);
 });
 
+var cards = ["plant-a-tree","#make-friends","#money-bag"]
+
 $(".card").hover(function (){
    $(".card").css({"width": "200px", "font-size": "150%"})
 })
