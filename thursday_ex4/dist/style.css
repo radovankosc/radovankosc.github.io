@@ -10,23 +10,23 @@ main {
   
 }
 
-.red {
-  background: #E67676;
+.north {
+  background-color: #E67676;
   margin: 0;
   padding: 20px;
   
   }
-.yellow {
+.east {
   background: #F2F062;
   margin: 0;
   padding: 20px;
 }
-.sky {
+.south {
   background: #A9E6E6;
   margin: 0;
   padding: 20px;
 }
-.blue {
+.west {
   background: #7692E4;
   margin: 0;
   padding: 20px;
