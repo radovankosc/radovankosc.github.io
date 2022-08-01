@@ -81,9 +81,13 @@ details>summary {
    cursor: pointer;
 }
 
+details>summary:hover {
+   background-color: #dbdbdb;
+
+}
+
 details>p {
    background-color: #eeeeee;
-
    padding: 20px;
    margin: 0;
    box-shadow: 1px 1px 6px #ff0099;
